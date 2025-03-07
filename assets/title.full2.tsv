@@ -1,0 +1,15 @@
+Has Votes	Has Year	Has Runtime	Has Genre	Population	Fullness
+No Votes	No Year	No Run	Genre	89338	1.0
+No Votes	No Year	No Run	No Genre	6183	0.0
+No Votes	No Year	Runtime	Genre	7531	2.0
+No Votes	No Year	Runtime	No Genre	214	1.0
+No Votes	Year	No Run	Genre	116580	2.0
+No Votes	Year	No Run	No Genre	47871	1.0
+No Votes	Year	Runtime	Genre	171589	3.0
+No Votes	Year	Runtime	No Genre	22853	2.0
+Votes	No Year	No Run	Genre	17	2.0
+Votes	No Year	Runtime	Genre	23	3.0
+Votes	Year	No Run	Genre	33602	3.0
+Votes	Year	No Run	No Genre	4919	2.0
+Votes	Year	Runtime	Genre	315006	4.0
+Votes	Year	Runtime	No Genre	6588	3.0
