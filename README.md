@@ -7,11 +7,11 @@ The result of the project is a functional analytics dashboard, which is served t
 [The current core dataset is the **IMDb Non-Commercial Datasets**.](https://developer.imdb.com/non-commercial-datasets/) A series of datasets provided for free by IMDb to allow for hobbyist analysis and historic interpretations. As an extension to the non-commercial dataset, it became necessary to source data dynamically from IMDb for a distribution breakdown of existing user votes on titles. In addition, IMDb lacks financial data in their free datasets, such as budgets and gross, or any inclusion of existing user review data. This can be accessed directly via pages associated with the title, so functionality has been included to incorporate them. 
 
 ### The app provides its collection of visualizations under two organizations or “views”. The first is the Historic view, used to greet users each time the application is accessed.
-![banner image](../assets/images/mainpage.jpg)
+![main page](/assets/images/mainpage.jpg) 
 
 
 ### The second are Title views, which users can access by searching on the dashboard where they have a specific title in mind.
-![banner image](../assets/images/reportpage.jpg)
+![report page](/assets/images/reportpage.jpg)
 
 
 ### If you'd like to give it a try:
